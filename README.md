@@ -115,3 +115,21 @@ src/
 Bruno Hideo Silva Shiraishi.
 
 Diego Alves da Silva Fagundes.
+
+---
+## **Screenshots**
+
+- **Tela Inicial:**
+<img src="Screenshots/index.png">
+
+- **Tela de cadastro do Cliente:**
+<img src="Screenshots/clientes.png">
+
+- **Lista de Clientes Cadastrados:**
+<img src="Screenshots/lista_cliente.png">
+
+- **Tela de Reservar:**
+<img src="Screenshots/reserva.png">
+
+- **Lista de Reservas Cadastradas:**
+<img src="Screenshots/reservas.png">
